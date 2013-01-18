@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array  name="fragment_title" >
+        <item >热门图片</item>
+        <item >每日心情</item>
+        <item >收藏图片</item>
+        <item >微博登录</item>
+    </string-array>
+</resources>
